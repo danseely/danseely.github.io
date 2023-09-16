@@ -5,29 +5,19 @@ I’m a software developer based in Ann Arbor, MI, with an associates degree in 
 
 ## ## My work #
 
-### ### AdAdapted (Sr. Software Engineer -> Engineering Manager) | 2020--Present #
+### ### AdAdapted #
+**Sr. Software Engineer -> Engineering Manager**\
+**2020--Present**
 
 I came on as AdAdapted's first dedicated backend engineer at a time when the team consisted soley of our VP of engineering and a single data engineer. I was tasked with supporting a legacy PHP / Vue platform, as well as assisting in supporting a legacy Golang infrasctructure. I then helped to build out an entire engineering team consisting of backend, frontend, data and UX/UI engineers, as well as a new set of services to take the place of the previous infrastructure, all in service of supporting the company's growing needs.
 
-More details on technical stuff here.
+As the team asseembled, we began work to transitioning our codebase from Golang and PHP to a stack consisting of Python on the backend (including multiple 3rd-party API connectors), React JS on the frontend, Scylla and Redis for high-performance caching and ad-serving, as well as a full migration from AWS to GCP. We are building infrascructor that represents the technical cutting edge of adtech.
 
 As I grew our engineering team to its current headcount of nearly 20, I also transitioned into a management role. I've been able to help the team grow and mature, while taking management workload off our VP. This change has been a great success, and I'm excited to continue to grow in the direction of technical leadership. I feel I've excelled as a leader even moreso than an engineer.
 
-senior engineer
-
-leadership
-
-next gen of adtech
-
-patented ATL technology
-
-new python services
-
-PHP maintenance + python rewrites
-
-maintained & built new external DSP api integration
-
-### ### Nutshell (Software Engineer) | 2015--2020 #
+### ### Nutshell #
+**Software Engineer**\
+**2015--2020**
 
 My first year or so with [Nutshell][ns] was spent working closely with the customer experience team, where I built a close-knit relationship between them and engineering. I gave the CX team a closer connection to engineering than they’d had previously, with direct engineering response to customer issues and more insight into how any resulting work made its way into the engineering team’s workflow. I’m incredibly proud of the current state of Nutshell CX / engineering relationship; as of sevaral years after I left, there was still a rotating engineer staffed to directly interact with CX on a daily basis.
 
@@ -37,7 +27,9 @@ I did a fair bit of work on the React/Redux frontend as well, which also contain
 
 The engineering team at Nutshell is incredibly close-knit and capable. I learned to rely on a great team -- and to provide the same for them.
 
-### ### HCR ManorCare (Software Developer) | 2014--2015 #
+### ### HCR ManorCare #
+**Software Developer**\
+**2014--2015**
 
 I worked on a tiny, scrappy infosec team inside a large healthcare company. In addition to monitoring device and network usage for malicious activity, we also pulled and analyzed network and application access data for dozens of products used by tens of thousands of employees.
 
@@ -45,6 +37,11 @@ To do so, I helped build a custom Python ETL engine that extracted application d
 
 ### ### Personal nerd stuff #
 I've completed a few embedded microcontroller projects, namely keyboards. I've mostly worked with the ATMega32u4 processor, and the [QMK][qmk] C-based firmware compiler. My builds have included assembly of processor-embedded pre-built PCB systems, as well as hand-wiring keyswitches to a bare Arduino.
+
+## ## Contact #
+Email => [dan@danseely.net][email]\
+LinkedIn => [linkedin.com/in/danseely][li]\
+GitHub => [github.com/danseely][gh]
 
 [ns]: https://www.nutshell.com/
 [gm]: http://gearman.org/
@@ -58,3 +55,6 @@ I've completed a few embedded microcontroller projects, namely keyboards. I've m
 [d3]: https://d3js.org/
 [ct]: https://github.com/danseely/cartodb-install
 [qmk]: https://github.com/qmk/qmk_firmware
+[email]: mailto:dan@danseely.net
+[li]: https://www.linkedin.com/in/danseely
+[gh]: https://github.com/danseely
